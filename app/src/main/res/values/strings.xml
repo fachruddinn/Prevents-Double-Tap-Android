@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Testing Fitur</string>
+    <string name="login">login</string>
+    <string name="transaction">transaction</string>
+    <string name="back">back</string>
+    <string name="activity_2_from_login">Activity 2 (From Login)</string>
+    <string name="activity_3_from_transaction">Activity 3 (From Transaction)</string>
+    <string name="testing_fitur">Testing Fitur</string>
+    <string name="prevent_double_tap">prevent double tap</string>
+    <string name="testing_prevent_double_tap">Testing Prevent Double Tap</string>
+</resources>
