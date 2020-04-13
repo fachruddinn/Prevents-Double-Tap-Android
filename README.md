@@ -1,7 +1,3 @@
-# Testing-Fitur
+# Feature Prevents Double tap in Android
 
-Aplikasi sederhana yang digunakan untuk tes fitur.
-
-Fitur yang ada di aplikasi ini baru satu yaitu fitur tes mencegah dobel tap (prevent double tap).
-
-Semoga bermanfaat.
+Features that can be used to prevent double tap in Android Application
